@@ -2,6 +2,11 @@
 
 The purpose of this repository is to provide a use case specific demo using the Programmable Wireless product. The use case chosen is industrial/home monitoring using a temperature and humidity sensor.
 
+### Requirements
+1. [Twilio Programmable Wireless SIM](https://www.twilio.com/console/wireless/orders/new)
+2. [Seeed Wio LTE](https://www.seeedstudio.com/Wio-LTE-US-Version-4G%2C-Cat.1%2C-GNSS%2C-JavaScript%28Espruino%29-Compatible-p-2957.html)
+3. [Temperature and Humidity Grove sensor](https://www.seeedstudio.com/Grove-Temperature-%26amp%3B-Humidity-Sensor-%EF%BC%88DHT11%EF%BC%89-p-745.html)
+
 ### Table of Contents
 
 1.  [Use case overview](#use-case-overview)
