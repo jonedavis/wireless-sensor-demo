@@ -1,9 +1,7 @@
   {
-      "name": "Programmable Wireless Sales Engineer Demo",
-      "description": "Industrial Sensor",
-      "repository": "https://github.com/jonedavis/wireless-se-demo",
-      "keywords": ["node", "express", "static"],
-      "buildpacks": [{
-          "url": "https://github.com/heroku/heroku-buildpack-nodejs"
-      }]
+      "name": "Programmable Wireless Temperature and Humidity Sensor Demo",
+      "description": "Build a industrial/home monitoring system using Twilio Programmable Wireless.",
+      "repository": "https://github.com/jonedavis/wireless-sensor-demo",
+      "logo": "https://raw.githubusercontent.com/jonedavis/wireless-sensor-demo/master/server/public/twilio-mark-white.svg",
+      "keywords": ["node", "express", "static"]
   }
