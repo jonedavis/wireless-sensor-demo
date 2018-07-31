@@ -1,5 +1,5 @@
   {
-      "name": "Wireless Sensor Demo",
+      "name": "Sensor Demo",
       "description": "Build a industrial/home monitoring system using Twilio Programmable Wireless.",
       "repository": "https://github.com/jonedavis/wireless-sensor-demo",
       "logo": "https://raw.githubusercontent.com/jonedavis/wireless-sensor-demo/master/server/public/twilio-mark-white.svg",
