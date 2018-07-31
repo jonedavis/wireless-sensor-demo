@@ -124,19 +124,12 @@ Your demo app is now running locally.
 
 This step is optional. You can run this demo locally without the need of online hosting. Use the following steps if you want to upload this demo to [Heroku](https://www.heroku.com/).
 
-You have two options:
-1. Click the **Deploy to Heroku** button below
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jonedavis/wireless-sensor-demo)
-
-**or follow these manual steps:**
-
 1. Follow the [Getting Started on Heroku with Node.js steps](https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up)
 2. Create a new [Heroku App](https://dashboard.heroku.com/new-app)
 3. Click the **Deploy** tab in your new Heroku App
 4. Upload the root directory of this repository via *git*
 
-> The root directory contains *app.json* and *Procfile*
+> The root directory contains *app.json* and *Procfile*.
 
 5. Click the **Open app** button at the top right hand side of your Heroku App
 
