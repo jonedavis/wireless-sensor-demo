@@ -1,0 +1,21 @@
+{
+  "name": "wireless-se-demo",
+  "version": "1.0.0",
+  "description": "Industrial Sensor Demo",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.3",
+    "twilio": "^3.14.0"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.17.2"
+  }
+}

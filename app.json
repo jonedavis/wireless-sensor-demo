@@ -1,0 +1,9 @@
+  {
+      "name": "Programmable Wireless Sales Engineer Demo",
+      "description": "Industrial Sensor",
+      "repository": "https://github.com/jonedavis/wireless-se-demo",
+      "keywords": ["node", "express", "static"],
+      "buildpacks": [{
+          "url": "https://github.com/heroku/heroku-buildpack-nodejs"
+      }]
+  }
