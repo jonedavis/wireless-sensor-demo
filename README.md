@@ -1,4 +1,4 @@
-# Programmable Wireless Sales Engineer Demo
+# Programmable Wireless Temperature and Humidity Sensor Demo
 
 The purpose of this repository is to provide a use case specific demo using the Programmable Wireless product. The use case chosen is industrial/home monitoring using a temperature and humidity sensor.
 
@@ -127,7 +127,7 @@ This step is optional. You can run this demo locally without the need of online 
 You have two options:
 1. Click the **Deploy to Heroku** button below
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jonedavis/wireless-se-demo)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jonedavis/wireless-sensor-demo)
 
 **or follow these manual steps:**
 
